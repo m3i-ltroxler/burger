@@ -1,7 +1,7 @@
-tofu
-tomatoes
-mozza
-oignons
-pickels
-olive oil
-pepper
+bio tofu
+bio tomatoes
+bio mozza
+bio oignons
+bio pickels
+bio olive oil
+bio pepper
