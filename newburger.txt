@@ -3,5 +3,3 @@ tomatoes
 mozza
 oignons
 pickels
-olive oil
-pepper
